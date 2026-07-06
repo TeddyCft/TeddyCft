@@ -12,8 +12,7 @@ I enjoy understanding how systems work under the hood and building tools that im
 - Building tools and automation
 - Optimizing workflows
 - Low-level programming and performance
-- Creative coding and technical challenges
-- Tons of geek stuff.
+- Creative coding and technical challenge.
 
 ---
 
@@ -22,9 +21,7 @@ I enjoy understanding how systems work under the hood and building tools that im
 - C / C++
 - Python
 - Docker
-- Linux
+- Linux / Shell
 - Git
-- Scratch
-- Construct
 
 ---
