@@ -21,6 +21,7 @@ I enjoy understanding how systems work under the hood and building tools that im
 - C / C++
 - Python
 - Docker
+- React
 - Linux / Shell
 - Git
 
